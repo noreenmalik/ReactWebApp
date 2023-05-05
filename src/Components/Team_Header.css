@@ -1,0 +1,33 @@
+.team-header_wrapper{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.701) 100%, #ffffff 5%) ,url('./Team.png')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .team-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+
+.Team01-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Team.png')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 21rem;
+    overflow: hidden;
+} 
+ @media (max-width: 767px) { 
+    .Team01-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }

@@ -1,0 +1,95 @@
+.home-header_wrapper {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.701) 100%, #ffffff 5%) ,url('./hero.png');
+
+  background-position: top center;
+  width: 100%;
+  background-size: cover;
+  min-height: 750px;
+  overflow: hidden;
+}
+
+.nav-link {
+  text-transform: uppercase;
+  font-size: 1.1rem;
+  padding: 12px auto;
+}
+
+.navbar-toggler {
+  border: none;
+  transition: box-shadow none;
+}
+
+.navbar-toggler:focus {
+
+  box-shadow: none;
+}
+
+.fa-bars {
+  color: #fff;
+  font-size: 2em;
+}
+
+.navbar {
+  /* background: transparent; */
+  background-color: #242526d0;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: var(--text-white);
+}
+
+.nav-link:hover{
+  background-color: var(--tertiary-color);
+  color: var(--text-white) !important;
+  
+}
+  
+.navbar-light .navbar-text a, .navbar-light .navbar-text a:focus, .navbar-light .navbar-text a:hover {
+
+  color: var(--text-white);
+}
+
+.logo {
+  width: 13rem;
+
+}
+
+/* .header-scrolled {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #121214cd;
+} */
+
+.fa-search {
+  color: #fff;
+}
+
+  .telphon {
+    font-size: 1.5rem;
+    font-weight: 600;
+  
+  }
+  .heading-1,.heading-2,.heading-3,.heading-4,.para-1{
+    color: var(--text-white);
+
+  }
+
+
+.telphon {
+  font-size: 1.5rem;
+  font-weight: 600;
+
+}
+
+.heading-1,
+.heading-3,
+.heading-4,
+.para-1 {
+  color: var(--text-white);
+
+
+}
+

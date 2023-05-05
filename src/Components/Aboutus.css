@@ -1,0 +1,38 @@
+
+.aboutus_sec{
+    width: 75%;
+    font:18px myfont sans-serif;
+    padding-left:30px;
+}
+@media (max-width:850px) {
+    .aboutus_sec{
+        width: 100%;
+        padding: none;
+    }
+}
+.about_sec2{
+    background-color: #ebebeb;
+}
+
+.main_1{
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 40px;
+}
+.the-content{
+    color: #333;
+}
+.text{
+    font:16px myfont;
+    margin-bottom: 20px;
+}
+.text a{
+    color: #f36b24;
+}
+@font-face {
+    font-family: myfont;
+    src: url(./Lato-Regular.ttf);
+}
+.text a:hover{
+    text-decoration: underline;
+}

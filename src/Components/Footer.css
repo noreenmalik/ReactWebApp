@@ -1,0 +1,14 @@
+
+
+.L_Footer{
+    background-color: var(--secondary-color);
+    color: var(--text-white);
+}
+.fab{
+    background-color: var( --tertiary-color);
+    border-radius: 50%;
+    padding: .58975rem .6685rem;
+}
+a {
+    color: var(--primary-text) ;
+}

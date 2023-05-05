@@ -1,0 +1,31 @@
+
+.Homesec05_Wrapper .slick-prev:before,
+.Homesec05_Wrapper .slick-next:before {
+    color: black;
+   
+}
+
+.icon-logo05{
+    width: 8rem;
+}
+
+
+.Homesec05_Wrapper .slick-dots li button {
+    display: none;
+}
+/* .slick-next {
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background: transparent;
+} */

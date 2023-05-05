@@ -1,0 +1,34 @@
+.S-icon{
+    width: 2.8rem;
+   
+}
+
+.services02_Wrapper .card{
+    background-color: #e0e0e0;
+    height: 160px;
+}
+.row {
+    --bs-gutter-x: 1.1rem;
+}
+.services02_Wrapper .card:hover{
+    background-color:var( --tertiary-color) ;
+
+}
+.services02_Wrapper .card:hover .card-title{
+    color: #fff;
+}
+/* .services02_Wrapper .card:hover .S-icon{
+    color: #fff !important;
+} */
+.m1 {
+    display: block;
+}
+.m2 {
+    display: none;
+}
+.card:hover .m1 {
+    display: none;
+}
+.card:hover .m2 {
+    display: block;
+}

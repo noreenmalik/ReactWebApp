@@ -1,0 +1,340 @@
+.service01-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service01-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service01-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service02-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service02-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service02-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service03-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service03-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service03-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service04-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service04-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service04-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service05-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service05-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service05-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service06-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service06-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service06-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service07-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service07-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service07-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service08-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service08-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service08-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service09-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service09-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service09-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service10-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service10-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service10-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service11-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service11-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service11-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service12-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service12-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service12-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service13-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service13-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service13-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service14-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service14-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service14-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service15-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service15-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service15-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service16-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service16-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service16-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service17-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service17-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service17-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service18-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service01-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service18-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service19-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service19-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service19-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+.service20-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./Service20-hero.webp')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+}
+@media (max-width: 767px) { 
+    .service20-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
+
+
+
+.breadcrumb-item{
+    font-size: 1rem;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+   
+    color: #ffffff;
+    content: var(--bs-breadcrumb-divider, "\00bb");
+}
+.breadcrumb a{
+    color: #ffffff;
+    text-decoration: underline;
+}
+.breadcrumb .active a{
+    text-decoration: none;
+}
+

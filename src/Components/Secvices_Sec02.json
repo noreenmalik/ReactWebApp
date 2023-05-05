@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "icon": "Services_Sec02/icon-padlock-with-dollar-symbol.png",
+        "icon_w": "Services_Sec02/Hover/1-icon-padlock-with-dollar-symbol.svg",
+        "title": "Banking, Finance and FinTech",
+        "link": "/banking-and-finance"
+    },
+    {
+        "id": 2,
+        "icon_w": "Services_Sec02/Hover/2-icon-column-building-outline.svg",
+        "icon": "Services_Sec02/icon-column-building-outline.png",
+        "title": "Business Sale and Purchase",
+        "link": "/business-sale-purchase"
+    },
+    {
+        "id": 3,
+        "icon": "Services_Sec02/service-toolbox.png",
+        "icon_w": "Services_Sec02/Hover/3-icon-toolbox.svg",
+        "title": "Business Structuring",
+        "link": "/business-structuring"
+    },
+    {
+        "id": 4,
+        "icon": "Services_Sec02/icon-two-document-sheet.png",
+        "icon_w": "Services_Sec02/Hover/4-icon-two-document-sheet-outline-with-plus-symbol.svg",
+        "title": "Commercial Contracts",
+        "link": "/contract-review-drafting"
+    },
+    {
+        "id": 5,
+        "icon": "Services_Sec02/icon-loaded-crane.png",
+        "icon_w": "Services_Sec02/Hover/5-icon-loaded-crane.svg",
+        "title": "Construction and Infrastructure",
+        "link": "/construction-and-infrastructure"
+    },
+    {
+        "id": 6,
+        "icon_w": "Services_Sec02/Hover/6-icon-booklet-with-globe-on-cover.svg",
+        "icon": "Services_Sec02/icon-booklet-with-globe-on-cover.png",
+        "title": "Corporate Immigration",
+        "link": "/corporate-immigration"
+    },
+    {
+        "id": 7,
+        "icon_w": "Services_Sec02/Hover/7-icon-computer-monitor-showing-a-chart.png",
+        "icon": "Services_Sec02/computer-monitor.png",
+        "title": "Data and Privacy",
+        "link": "/data-and-privacy"
+    },
+    {
+        "id": 8,
+        "icon": "Services_Sec02/icon-lifebuoy.png",
+        "icon_w": "Services_Sec02/Hover/8-icon-lifebuoy.svg",
+        "title": "Dispute Resolution and Litigation",
+        "link": "/disputes-litigation"
+    },
+    {
+        "id": 9,
+        "icon": "Services_Sec02/icon-computer-with-person-outline.png",
+        "icon_w": "Services_Sec02/Hover/9-icon-computer-with-person-outline.svg",
+        "title": "E-Commerce",
+        "link": "/online-business"
+    },
+    {
+        "id": 10,
+        "icon_w": "Services_Sec02/Hover/10-icon-three-people-outline.svg",
+        "icon": "Services_Sec02/icon-three-people-outline.png",
+        "title": "Employment",
+        "link": "/employment-law"
+    },
+    {
+        "id": 11,
+        "icon": "Services_Sec02/icon-three-people-outline-alt.png",
+        "icon_w": "Services_Sec02/Hover/11-icon-three-people-outline-alt.svg",
+        "title": "Employment Advisory Service",
+        "link": "/employment-advisory-service"
+    },
+    {
+        "id": 12,
+        "icon": "Services_Sec02/organisation-chart.png",
+        "icon_w": "Services_Sec02/Hover/12 and 18-icon-organisation-chart.svg",
+        "title": "Franchising",
+        "link": "/franchising"
+    },
+    {
+        "id": 13,
+        "icon": "Services_Sec02/icon-computer-speech-bubble.png",
+        "title": "Information Technology",
+        "icon_w": "Services_Sec02/Hover/13-icon-computer-with-speech-bubble.svg",
+        "link": "/information-technology"
+    },
+    {
+        "id": 14,
+        "icon": "Services_Sec02/icon-light-bulb.png",
+        "icon_w": "Services_Sec02/Hover/14-icon-light-bulb.svg",
+        "title": "Intellectual Property",
+        "link": "/trademarks-patents-ip"
+    },
+    {
+        "id": 15,
+        "icon": "Services_Sec02/icon-person-with-headset.png",
+        "title": "Media and Entertainment",
+        "icon_w": "Services_Sec02/Hover/15-icon-person-with-headset.svg",
+        "link": "/media-and-entertainment"
+    },
+    {
+        "id": 16,
+        "icon": "Services_Sec02/icon-tall-building-outline.png",
+        "icon_w": "Services_Sec02/Hover/16-icon-tall-building-outline.svg",
+        "title": "Property and Leasing",
+        "link": "/property-and-leasing"
+    },
+    {
+        "id": 17,
+        "icon": "Services_Sec02/icon-flag-outline.png",
+        "icon_w": "Services_Sec02/Hover/17-icon-flag-outline.svg",
+        "title": "Regulatory and Compliance",
+        "link": "/regulatory-and-compliance"
+    },
+    {
+        "id": 18,
+        "icon": "Services_Sec02/organisation-chart.png",
+        "icon_w": "Services_Sec02/Hover/12 and 18-icon-organisation-chart.svg",
+        "title": "Restructuring and Insolvency",
+        "link": "/restructuring-insolvency"
+    },
+    {
+        "id": 19,
+        "icon": "Services_Sec02/arrow-hitting.png",
+        "icon_w": "Services_Sec02/Hover/19-icon-arrow-hitting-bullseye.svg",
+        "title": "Startups",
+        "link": "/startups"
+    },
+    {
+        "id": 20,
+        "icon": "Services_Sec02/icon-chart.png",
+        "icon_w": "Services_Sec02/Hover/20-icon-chart-with-magnifying-glass.svg",
+        "title": "Tax",
+        "link": "/tax"
+    }
+]

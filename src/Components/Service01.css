@@ -1,0 +1,38 @@
+.service-Sec3_wrapper{
+    background-color: var(--secondary-color);
+}
+
+.second-list li{
+    color: var(--text-white);
+    /* padding: 20px;
+    border: 1px solid var(--tertiary-color);
+    border-radius: 50%; */
+    list-style-type: none;
+    padding: 12px 0;
+}
+
+
+
+.list{
+    color: var(--text-white);
+    padding: 8px;
+    margin-right: 5px;
+    border: 1px solid var(--text-white);
+    border-radius: 50%;
+    list-style-type: none;
+    font-size: 1.2rem;
+}
+.no-list li{
+    color: var(--text-white);
+}
+
+.teamimage{
+   border-radius: 50%;
+   height: 205px;
+   width: 205px;
+}
+.heading_1{
+    font-size:22px;
+    color : var(--tertiary-color);
+}
+

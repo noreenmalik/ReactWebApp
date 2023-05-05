@@ -1,0 +1,72 @@
+.contact_wrapper {
+    background: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%), url('./contact-Hero.webp');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 26rem;
+   
+}
+.cont-form{
+    border:1px solid black;
+    margin: 50px auto;
+
+}
+.cont-form h2{color: #f36b24;
+    font-weight: 300;
+    padding-bottom: 0;
+    text-align: center;
+    margin: 2% 0;
+}
+
+.desc{
+    background-color: rgba(110,178,200,.35);
+    margin: 2%;
+    padding: 2%;
+}
+.foot-desc{
+    margin: 2%;
+}
+.desc p, .foot-desc p{
+    line-height: normal;
+    font-size: 18px;
+}
+
+form
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.form-control {
+    width: 92%;
+    margin: 5px auto;
+}
+textarea {
+    margin: 5px auto;
+    border: 1px solid #d0d6db;
+    width: 100%;
+}
+
+button.btn.btn-primary {
+    margin: 20px auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 16px;
+}
+input[type=text], input[type=email],input[type=tel]{background-color:#d0d6db;}
+label {margin-left: 14px;}
+.txt-bx label{margin-left: 0;}
+.cal-us{background-color: #242424;padding: 15px;}
+.cal-us h2{color: #f36b24;font-weight: 300;padding-bottom: 0;text-align: center;}
+.cal-us p{text-align: center;color: white;font-size: 16px;} 
+.cal-us span {font-size: 1rem;font-weight: normal;color: #fff;margin: 0 auto;display: flex;flex-wrap: wrap;justify-content: center;}
+.cal-us a{text-align: center;font-size: 40px;font-weight: normal;color: white;}
+.maill-us{padding: 15px;}
+.maill-us h2{font-size: 28px;font-weight: 100;text-align: center;}
+.maill-us span{color: var(--secondary-text);text-align: center;display: flex;justify-content: center;}
+
+
+
+.Location_Wrapper{
+background-color: #264c5a;
+}

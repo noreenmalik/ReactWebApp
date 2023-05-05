@@ -1,0 +1,31 @@
+.homesec06_Wrapper{
+    /* background-color: var(--secondary-color); */
+}
+.img-avatar{
+    border-radius: 50%;
+    width: 12.1rem;
+}
+
+.img-avatar:hover {
+    box-shadow: 1px 15px 6px rgba(61, 61, 61, 0.188);
+    transition: all .3s ease-in-out;
+}
+
+@media (max-width: 991px) {
+    .img-avatar{
+        width: 10rem;
+    }
+}
+.homesec06_Wrapper .card{
+    background-color: transparent;
+}
+.link {
+text-decoration: underline !important;
+color: var(--tertiary-color);
+}
+a:hover{
+color: var(--text-black);
+}
+.designation{
+    color: var(--tertiary-color);
+}

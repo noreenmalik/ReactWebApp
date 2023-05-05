@@ -1,0 +1,47 @@
+@media (max-width: 490px) { 
+
+    /* Custom CSS */
+
+     h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.8rem;
+    }
+
+    h3 {
+        font-size: 1.3rem;
+        line-height: 2.6875rem;
+    }
+
+    h5 {
+        font-size: 1.0625rem;
+    }
+}
+   
+        /* NavBar */
+        .header-scrolled {
+            height: auto;
+        }
+    
+        .header_wrapper .navbar-collapse {
+            margin-top: -0.125rem;
+        }
+    
+        .header_rapper .menu-navbar-nav {
+            text-align: center;
+            background-color: var(--bg-white);
+        }
+    
+        .header-wrapper .nav-item .nav-link {
+            margin-top: 0.9375rem;
+        }
+  
+
+    .logo{
+        width: 10rem;
+        margin-left: 1rem;
+      }
+
+

@@ -1,0 +1,142 @@
+
+[
+  {
+      "id": 1,
+      "icon": "Services_Sec02/icon-padlock-with-dollar-symbol.png",
+      "Title": "Banking, Finance and FinTech",
+      "Description": "Business owners can obtain debt finance through secured and unsecured loans, including revenue loans and convertible notes."
+  },
+  {
+    "id": 2,
+    "icon": "Services_Sec02/icon-column-building-outline.png",
+    "Title": "Business Sale and Purchase",
+    "Description": "Selling a business involves several important steps to ensure a smooth handover to a new owner — including due diligence, exchange and settlement."
+},
+{
+    
+  "id": 3,
+  "icon": "Services_Sec02/service-toolbox.png",
+  "Title": "Business Structuring",
+  "Description": "LegalVision’s corporate and commercial lawyers can assist with drafting and reviewing shareholders agreements."
+},
+{
+    
+  "id": 4,
+  "icon": "Services_Sec02/icon-two-document-sheet.png",
+  "Title": "Commercial Contracts",
+  "Description": "Businesses enter into new contracts each day – including with customers, suppliers and employees."
+},
+{
+    
+  "id": 5,
+  "icon": "Services_Sec02/icon-loaded-crane.png",
+  "Title": "Construction and Infrastructure",
+  "Description": "LegalVision’s construction lawyers has an established reputation in Australia’s construction and infrastructure space, and assists."
+},
+{
+    
+  "id": 6,
+  "icon": "Services_Sec02/icon-booklet-with-globe-on-cover.png",
+  "Title": "Corporate Immigration",
+  "Description": "LegalVision’s experienced immigration lawyers can assist with a broad range of immigration matters, including visa applications, waivers"
+},
+{
+    
+  "id": 7,
+  "icon": "Services_Sec02/computer-monitor.png",
+  "Title": "Data and Privacy",
+  "Description": "There is little doubt that in today’s technology-driven economy, the protection of data and privacy generally is a key business risk."
+},
+{
+    
+  "id": 8,
+  "icon": "Services_Sec02/icon-lifebuoy.png",
+  "Title": "Dispute Resolution and Litigation",
+  "Description": "Commercial disputes are common – and, as your business grows, it’s likely that you’ll run into a dispute with a competitor, supplier"
+},
+{
+    
+  "id": 9,
+  "icon": "Services_Sec02/icon-computer-with-person-outline.png",
+  "Title": "E-Commerce",
+  "Description": "An increasing number of Australians are turning their hobbies and side-projects into online businesses. "
+},
+{
+    
+  "id": 10,
+  "icon": "Services_Sec02/icon-three-people-outline.png",
+  "Title": "Employment",
+  "Description": "Navigating Australia’s complex employment and labour laws can pose a challenge for employers. Legal issues impact all stages of the employment lifecycle"
+},
+{
+    
+  "id": 11,
+  "icon": "Services_Sec02/icon-three-people-outline-alt.png",
+  "Title": "Employment Advisory Service",
+  "Description": "Employee management issues can attract significant financial and reputational risks. But trying to navigate the complex Australian employment "
+},
+{
+    
+  "id": 12,
+  "icon": "Services_Sec02/organisation-chart.png",
+  "Title": "Franchising",
+  "Description": "Buying a franchise is an attractive option for would-be business owners who want to work with an established brand."
+},
+{
+    
+  "id": 13,
+  "icon": "Services_Sec02/icon-computer-speech-bubble.png",
+  "Title": "Information Technology",
+  "Description": "Information and communications technology is an area that has seen significant disruption over the last decade."
+},
+{
+    
+  "id": 14,
+  "icon": "Services_Sec02/icon-light-bulb.png",
+  "Title": "Intellectual Property",
+  "Description": "For many businesses, your brand will be a crucial part of the identity of your business. Customers will often identify your business by reference to your logo"
+},
+{
+    
+  "id": 15,
+  "icon": "Services_Sec02/icon-person-with-headset.png",
+  "Title": "Media and Entertainment",
+  "Description": "LegalVision’s media and entertainment team are experienced with the commercial and regulatory environment in which media and entertainment businesses operate."
+},
+{
+    
+  "id": 16,
+  "icon": "Services_Sec02/icon-tall-building-outline.png",
+  "Title": "Property and Leasing",
+  "Description": "Commercial and Retail leases are complex documents that must balance the rights of the landlord and tenant and provide for numerous eventualities"
+},
+{
+    
+  "id": 17,
+  "icon": "Services_Sec02/icon-flag-outline.png",
+  "Title": "Regulatory and Compliance",
+  "Description": "Regulation is a broad term that refers to the body of rules through which government bodies attempt to monitor and supervise economic activity."
+},
+{
+    
+  "id": 18,
+  "icon": "Services_Sec02/organisation-chart.png",
+  "Title": "Restructuring and Insolvency",
+  "Description": "LegalVision’s restructuring and insolvency team can assist you in dealing with the processes surrounding each stage of the personal or corporate insolvency process."
+},
+{
+    
+  "id": 19,
+  "icon": "Services_Sec02/arrow-hitting.png",
+  "Title": "Startups",
+  "Description": "Capital raising is a major hurdle for many startup founders looking to take their idea to market. Obtaining adequate funding"
+},
+{
+    
+  "id": 20,
+  "icon": "Services_Sec02/icon-chart.png",
+  "Title": "Tax",
+  "Description": "Every business must deal with Australia’s complex tax system. At LegalVision, we have assisted numerous businesses and startups with critical tax issues."
+}
+  
+]

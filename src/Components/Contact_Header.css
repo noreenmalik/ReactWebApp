@@ -1,0 +1,16 @@
+.contact-header_wrapper{
+    background-image: linear-gradient(rgba(0,0,0,.6) 100%, #c5bbaf95 5%) ,url('./18.png')  ;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    height: 22rem;
+    overflow: hidden;
+  }
+  @media (max-width: 767px) { 
+    .contact-header_wrapper{
+      background-position: top center;
+      height: 18rem;
+     
+    }
+  }
